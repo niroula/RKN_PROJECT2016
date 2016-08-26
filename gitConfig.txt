@@ -1,0 +1,3 @@
+notepad++ configuration
+git config -- global -user user.nmae "RKN"
+git config --global -email user.email "rkn27st@yahoo.com"
