@@ -1,0 +1,6 @@
+notepad++ configuration
+git config -- global  user.nmae "RKN"
+git config --global user.email "rkn27st@yahoo.com"
+
+making another change
+adding maven build life cycle
